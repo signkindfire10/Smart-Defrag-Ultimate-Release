@@ -1,0 +1,23 @@
+{
+  "repo": "smart-defrag-ultimate-release",
+  "product": "Smart Defrag Ultimate Release",
+  "kind": "utility",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "utility",
+  "topics": [
+    "smart-defrag",
+    "disk-optimization",
+    "ssd-aware-defrag",
+    "boot-time-defrag",
+    "drive-health",
+    "smartdefrag-setup-failed-fix",
+    "how-to-install-smartdefrag",
+    "smartdefrag-windows",
+    "smartdefrag-desktop-2026",
+    "smartdefrag-desktop-package"
+  ],
+  "site": "toolix.me"
+}
